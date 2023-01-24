@@ -1,0 +1,5 @@
+targetmajor: "4.10"
+targetpatch: 26
+
+configMap:
+   DIGEST: 1234567890
